@@ -4,7 +4,9 @@ Hi 👋 My name is Nouasri Djamila
 Full Stack Web Developer | Making PowerPoint Presentation
 ---------------------------------------------------------
 
-Here’s a polished and corrected version of your paragraph in English: --- I am an Algerian full-stack developer from Algeria, holding a Bachelor's degree in Computer Systems from the University of Algiers 1. Currently, I am a Master’s student specializing in Data Science and Analysis at the same university. My expertise covers the entire project lifecycle—from requirement specification to deployment and testing. My approach goes beyond just programming; I aim to capture the vision, passion, and objectives of each project. I treat every project as unique because I see my work as translating ideas into reality, not just writing code. In addition, I've discovered that I have a strong sense of design and a solid understanding of effective presentation techniques in PowerPoint, which has led me to develop my skills in creating engaging and professional presentations.
+I am an Algerian full-stack developer from Algeirs, holding a Bachelor's degree in Computer Systems from the University of Algiers 1. Currently, I am a Master’s student specializing in Data Science and Analysis at the same university. My expertise covers the entire project lifecycle—from requirement specification to deployment and testing. My approach goes beyond just programming; I aim to capture the vision, passion, and objectives of each project. I treat every project as unique because I see my work as translating ideas into reality, not just writing code. 
+
+In addition, I've discovered that I have a strong sense of design and a solid understanding of effective presentation techniques in PowerPoint, which has led me to develop my skills in creating engaging and professional presentations.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [nouasridjamila@gmail.com](mailto:nouasridjamila@gmail.com)
