@@ -4,6 +4,8 @@ Hi 👋 My name is Nouasri Djamila
 Full Stack Web Developer | Making PowerPoint Presentation
 ---------------------------------------------------------
 
+Here’s a polished and corrected version of your paragraph in English: --- I am an Algerian full-stack developer from Algeria, holding a Bachelor's degree in Computer Systems from the University of Algiers 1. Currently, I am a Master’s student specializing in Data Science and Analysis at the same university. My expertise covers the entire project lifecycle—from requirement specification to deployment and testing. My approach goes beyond just programming; I aim to capture the vision, passion, and objectives of each project. I treat every project as unique because I see my work as translating ideas into reality, not just writing code. In addition, I've discovered that I have a strong sense of design and a solid understanding of effective presentation techniques in PowerPoint, which has led me to develop my skills in creating engaging and professional presentations.
+
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [nouasridjamila@gmail.com](mailto:nouasridjamila@gmail.com)
 * 🧠  I'm learning Data science
@@ -20,7 +22,6 @@ src="https://img.shields.io/github/followers/Nouasri-Djamila?logo=github&style=f
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Nouasri-Djamila" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Nouasri Djamila" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Nouasri Djamila" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
 
 ### Badges
 
