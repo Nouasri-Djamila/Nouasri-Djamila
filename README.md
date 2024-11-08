@@ -4,8 +4,6 @@ Hi 👋 My name is Nouasri Djamila
 Full Stack Web Developer | Making PowerPoint Presentation
 ---------------------------------------------------------
 
-I am an Algerian full-stack developer from Algiers, holding a Bachelor's degree in Computer Systems from the University of Algiers 1. Currently, I am a Master’s student specializing in Data Science and Analysis at the same university. My expertise covers the entire project lifecycle—from requirement specification to deployment and testing. My approach goes beyond just programming; I aim to capture the vision, passion, and objectives of each project. I treat every project as unique because I see my work as translating ideas into reality, not just writing code. In addition, I've discovered that I have a strong sense of design and a solid understanding of effective presentation techniques in PowerPoint.
-
 *   🌍  I'm based in Algeria
 *   ✉️  You can contact me at [nouasridjamila@gmail.com](mailto:nouasridjamila@gmail.com)
 *   🧠  I'm learning Data science
@@ -35,6 +33,12 @@ I am an Algerian full-stack developer from Algiers, holding a Bachelor's degree 
                     </a>
                       <a href="https://www.x.com/Nouasri Djamila" target="_blank" rel="noreferrer">
                     <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Nouasri-Djamila"><img src="https://github-readme-stats.vercel.app/api?username=Nouasri-Djamila&show_icons=true&hide=commits,issues,&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="Nouasri-Djamila's GitHub stats" /></a><a href="https://github.com/Nouasri-Djamila" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouasri-Djamila&langs_count=10&title_color=3382ed&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
